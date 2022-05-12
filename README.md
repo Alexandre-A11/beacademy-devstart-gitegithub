@@ -1,2 +1,1 @@
-# beacademy-devstart-gitgithub
-Bootcamp PayLivre + BeAcademy
+# Bootcamp PayLivre + BeAcademy
