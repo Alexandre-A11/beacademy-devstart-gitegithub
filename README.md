@@ -3,15 +3,15 @@
 ![](./img/git+github.png)
 
 ## Conhecendo Git & GitHub
-1. [git init](#git%20init)
-2. [git status](#git%20status)
-3. [git add](#git%20add)
-4. [git log](#git%20log)
-5. [git branch](#git%20branch)
-6. [git checkout](#git%20checkout)
-7. [git merge](#git%20merge)
-8. [git remote](#git%20remote)
-9. [git clone](#git%20clone)
+1. [git init](#git-init)
+2. [git status](#git-status)
+3. [git add](#git-add)
+4. [git log](#git-log)
+5. [git branch](#git-branch)
+6. [git checkout](#git-checkout)
+7. [git merge](#git-merge)
+8. [git remote](#git-remote)
+9. [git clone](#git-clone)
 
 ##### git init
 
